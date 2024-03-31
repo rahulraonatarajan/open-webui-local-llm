@@ -1,3 +1,13 @@
+## Key Use Cases ⭐
+
+- 🖥️ **Conversational Forms**: An AI assisted form filling experience that auto fills info in collaboration with the form filler
+
+- 📱 **On-device Private AI**: On-device local inference capabilities
+
+- ⚡ **Multi Modal lightweight applications**: Enjoy fast and responsive performance.
+
+
+
 # Open WebUI (Formerly Ollama WebUI) 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
